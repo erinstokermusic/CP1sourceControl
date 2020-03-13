@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ModulusOperator.iml" filepath="$PROJECT_DIR$/ModulusOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals.iml" filepath="$PROJECT_DIR$/Conditionals.iml" />
     </modules>
   </component>
 </project>
